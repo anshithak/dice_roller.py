@@ -1,2 +1,2 @@
 # dice_roller.py
-Monte Carlo
+Monte Carlo Simulation 
